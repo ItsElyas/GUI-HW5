@@ -20,6 +20,7 @@ body {
 
 .ScrabbleOneLineDiv {
     position: relative;
+    /*Chose this width for the tiles to fit almost perfectly*/
     max-width: 825px; 
     width: 95%;
     margin: 50px auto;
@@ -96,4 +97,5 @@ body {
 #message-area {
     margin-top: 20px;
     font-weight: bold;
+
 }
